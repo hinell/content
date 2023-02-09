@@ -25,6 +25,6 @@
     "env-cmd": "10.1.0",
     "markdownlint-cli2": "0.5.1",
     "markdownlint-rule-search-replace": "1.0.5",
-    "prettier": "2.7.1"
+    "prettier": "2.8.4"
   }
 }
